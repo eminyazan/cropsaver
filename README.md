@@ -1,7 +1,5 @@
 # CropSaver
 
-#### CropSaver is private for now as I purchased the API. API keys are related to my credit card. I will share it as open-source after completing the reviews. 
-
 #### CropSaver is a Flutter application. You can download the apk file from the link below.
 
 #### - [Download CropSaver](https://drive.google.com/file/d/1GGf6yhLH1_RLh2SZsOrDuz7UqX-kjP_Q/view?usp=drivesdk)
